@@ -1,0 +1,64 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+body {
+    background: #FFFFF5;
+    color: #106635;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+}
+
+.navbar {
+    background-color: #FFFFF5;
+}
+
+.logo {
+  width: 180px;
+  height: auto;
+}
+
+.ad {
+  width: 200px;
+  height: auto;
+}
+
+.photoGroup {
+  width: 600px;
+  height: auto;
+  margin: 5%;
+}
+
+.gachimuchi {
+  width: 200px;
+  height: auto;
+  margin: 5%;
+}
+
+.footer {
+  background-color: #106635;
+  color: #FFFFF5;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  padding: 2rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.bullet-train {
+  width: 800px;
+  height: auto;
+  margin: 3%;
+}
+
+.groupName {
+  color: #106635;
+  font-size: xx-large;
+  font-weight: bold;
+  margin: 2%;
+  text-align: center;
+}
